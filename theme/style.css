@@ -6,7 +6,9 @@ body {
 	padding: 40px;
 	max-width: 780px;
 	width: 100%;
+    background-color: #fde8c6;
 }
+
 a {color: #000;}
 a:hover {color: red;}
 .icons {
@@ -26,14 +28,14 @@ a:hover {color: red;}
 .logo {
 	width: 100px;
 	height: 100px;
-	border-radius: 50%;
+	border-radius: 40%;
 	vertical-align: middle;
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
 header {margin-bottom: 40px;}
 header h1 {
-	font-size: 1.7em;
+    font-size: 1.7em;
 	font-weight: normal;
 	font-style: italic;
 	display: inline-block;
